@@ -1,3 +1,5 @@
+-- Discord:zasamiels, Roblox:zasamiels
+
 --[[
 	Move Server
 	
